@@ -1,4 +1,3 @@
-name: Your New Jekyll Site
+name: Mattias Erming
 permalink: /blog/:title
 markdown: redcarpet
-pygments: true
