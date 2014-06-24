@@ -27,6 +27,13 @@ p {
 	line-height: 1.7;
 	text-align: justify;
 }
+pre {
+	background-color: #f6f6f6;
+	border-top: 1px solid #eee;
+	padding: 10px;
+	border-radius: 5px;
+	overflow: auto;
+}
 .meta {
 	color: #999;
 	margin: -5px 0 20px;

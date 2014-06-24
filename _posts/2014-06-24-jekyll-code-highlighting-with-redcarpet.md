@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jekyll syntax highlighting with Redcarpet"
+title: "Jekyll code highlighting with Redcarpet"
 date: 2014-06-24 15:10
 ---
 
@@ -38,3 +38,8 @@ Wrap your code inside the fence and redcarpet will highlight it for you. Like th
 		// This is a comment.
 	}
 	```
+
+### Themes
+
+Find your theme here:  
+[github.com/richleland/pygments-css](http://richleland.github.io/pygments-css/)
