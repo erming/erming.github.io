@@ -31,7 +31,7 @@ markdown: redcarpet
 ### Usage
 
 To highlight your code, you have to use "code fences".
-Wrap your code inside the fence and redcarpet will highlight it for you. Like this:
+Wrap your code inside the fence and Redcarpet will highlight it for you. Like this:
 
 	```javascript
 	function Example() {

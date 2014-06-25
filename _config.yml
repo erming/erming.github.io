@@ -1,3 +1,5 @@
 name: Mattias Erming
 permalink: /:title
 markdown: redcarpet
+gems:
+  - jekyll-sitemap
