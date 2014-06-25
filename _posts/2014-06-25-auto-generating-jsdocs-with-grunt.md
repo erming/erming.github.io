@@ -111,6 +111,8 @@ grunt.registerTask(
 );
 ```
 
+### And we're done
+
 [Your file should now look like this.](https://gist.github.com/erming/033ead1482343ddc7a1e)
 
 There. It's all done.
