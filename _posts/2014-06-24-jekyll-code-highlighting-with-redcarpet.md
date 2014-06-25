@@ -2,6 +2,7 @@
 layout: post
 title: "Jekyll code highlighting with Redcarpet"
 date: 2014-06-24 15:10
+category: programming
 ---
 
 Jekyll is great.

@@ -2,6 +2,7 @@
 layout: post
 title: "Hello, world!"
 date: 2014-06-12 00:20
+category: uncategorized
 ---
 
 I told myself to start blogging once I reached 100 days streak on GitHub. And yesterday I reached that goal. 

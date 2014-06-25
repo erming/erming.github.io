@@ -50,6 +50,9 @@ pre {
 #blog .date {
 	color: #999;
 }
+#blog .category {
+	text-transform: capitalize;
+}
 #comments {
 	margin-top: 40px;
 }
