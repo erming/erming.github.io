@@ -13,7 +13,7 @@ This post will help you install a version of Jekyll that is compatible with GitH
 ## Install
 
 Assuming you have already [installed Jekyll]({% post_url 2014-06-28-how-to-install-jekyll-on-ubuntu %}),
-lets go ahead and install [Bundler](http://bundler.io/).
+lets go ahead and install [Bundler](http://bundler.io/), a dependency manager for Ruby projects.
 
 ```bash
 sudo gem install bundler
