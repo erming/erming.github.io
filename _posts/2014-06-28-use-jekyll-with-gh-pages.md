@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Use Jekyll on gh-pages"
+title: "Use Jekyll with gh-pages"
 date: 2014-06-28 21:13
 category: programming
 ---

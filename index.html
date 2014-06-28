@@ -3,13 +3,10 @@ layout: master
 title: Mattias Erming
 ---
 
-<div id="blog">
+<div id="archive">
 	{% for post in site.posts %}
 	<div class="row">
-		<div class="col-sm-3 date">
-			{{ post.date | date: "%B %e" }}
-		</div>
-		<div class="col-sm-9">
+		<div class="col-sm-12">
 			<a href="{{ post.url }}">{{ post.title }}</a>
 		</div>
 	</div>
