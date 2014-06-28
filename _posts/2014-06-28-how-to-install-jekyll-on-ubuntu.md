@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to install Jekyll"
+title: "How to install Jekyll on Ubuntu"
 date: 2014-06-28 19:56
 category: programming
 ---
