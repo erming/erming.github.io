@@ -47,6 +47,20 @@ ol {
 li {
 	line-height: 1.6;
 }
+table {
+	width: 100%;
+}
+th,
+td {
+	padding: 9px 18px;
+}
+th {
+	border-bottom: 4px solid #eee;
+}
+td {
+	border-top: 1px solid #eee;
+	font-family: monospace;
+}
 .meta {
 	color: #999;
 	margin: -5px 0 20px;

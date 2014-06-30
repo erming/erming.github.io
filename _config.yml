@@ -1,5 +1,7 @@
 name: Mattias Erming
 permalink: /:title
 markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "autolink"]
 gems:
   - jekyll-sitemap
