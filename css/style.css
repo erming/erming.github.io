@@ -20,6 +20,9 @@ h3 {
 p {
 	line-height: 1.7;
 }
+em {
+	color: #888;
+}
 pre {
 	background: #f6f6f6;
 	border-top: 1px solid #eee;

@@ -5,7 +5,7 @@ date: 2014-07-01 00:14
 category: programming
 ---
 
-### Usage
+## Usage
 
 To create a timestamp in bash, use the `date` command:
 
@@ -23,7 +23,7 @@ You can also use it directly inside strings:
 echo "time is `date +%T`" # time is 00:00:00
 ```
 
-### Formats
+## Formats
 
 List of useful formats:
 
