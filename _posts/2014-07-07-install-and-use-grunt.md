@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installing Grunt"
+title: "Install and use Grunt"
 date: 2014-07-07 13:14
 category: programming
 ---
