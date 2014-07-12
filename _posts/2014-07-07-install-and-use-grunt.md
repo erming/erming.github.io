@@ -13,7 +13,7 @@ Grunt requires [npm](https://www.npmjs.org/).
 If you don't have it already, lets install it:
 
 ```bash
-npm install nodejs-legacy
+apt-get install nodejs-legacy
 ```
 
 ## Install Grunt
