@@ -17,4 +17,6 @@ refresh
 
 gem install jekyll
 
+refresh
+
 echo "Done."
