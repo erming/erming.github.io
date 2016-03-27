@@ -5,17 +5,13 @@
 
 ## Install
 
-To run this site locally you need to install [Ruby](https://rvm.io/rvm/install) together with [Jekyll](https://jekyllrb.com/).
-
-Here's quick way to install it on Ubuntu:
+Copy and run this script:  
 
 ```
-curl -L https://get.rvm.io | bash
-exec $SHELL
-rvm install 2.3.0
-rvm use 2.3.0
-gem install jekyll
+git clone http://github.com/erming/erming.github.io && ./erming.github.io/install.sh
 ```
+
+The script will install [Ruby](https://rvm.io/rvm/install) and [Jekyll](https://jekyllrb.com/) for you.
 
 ## Usage
 
