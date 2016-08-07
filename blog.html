@@ -1,26 +1,11 @@
 ---
-layout: null
+layout: master
 ---
 
-<!doctype html>
-<html>
-	<head>
-	
-	<meta charset="utf-8">
-	<meta name="description" content="{{ site.description }}">
-
-	<title>{{ site.title }}</title>
-	
-	</head>
-	<body>
-	
-	<ul>
-		{% for p in site.posts %}
-			<li>
-				<a href="{{ p.url }}">{{ p.title }}</a>
-			</li>
-		{% endfor %}
-	</ul>
-	
-	</body>
-</html>
+<ul>
+{% for p in site.posts %}
+	<li>
+		<a href="{{ p.url }}">{{ p.title }}</a>
+	</li>
+{% endfor %}
+</ul>
