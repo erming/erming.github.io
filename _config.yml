@@ -1,0 +1,7 @@
+title: Mattias Erming
+email: mattias@erming.io
+description: ...
+baseurl: /
+url: http://erming.io
+markdown: kramdown
+permalink: /:year/:title
